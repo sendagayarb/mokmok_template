@@ -22,10 +22,13 @@ mokmok_yyyy-mm-dd
 * 22:00 終了&撤収(渋谷・原宿方面の方はウォーキング組あり)
 
 # 参加者
-* ppworks[すたっふぅー]
+参加者の皆さんの自己紹介URLはURLがない場合は文章やキーボードでも良いので記載お願いします。
+
+* ppworks
   * ポジションペーパー:http://ppworks.info
-* fukajun[すたっふぅー]
+* fukajun
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
+
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
